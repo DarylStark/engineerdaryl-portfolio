@@ -3,7 +3,7 @@ import './Header.scss'
 function Header() {
     return (
         <h1 id='header'>
-            Engineer Daryl
+            Engineer Daryl portfolio
         </h1>
     )
 }

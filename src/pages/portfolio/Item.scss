@@ -1,0 +1,17 @@
+div.item {
+    margin-bottom: 20px;
+    border: 1px solid #00cc00;
+    background-color: #000;
+    box-sizing: border-box;
+    padding: 24px;
+
+    p#title {
+        font-weight: bold;
+        margin-top: 0;
+    }
+
+    p#description {
+        line-height: 160%;
+        margin: 0;
+    }
+}
